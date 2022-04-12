@@ -1,8 +1,6 @@
 ## Hi there 👋 I'm a Backend developer
-
-<a href="https://t.me/DJWOMS">
-  <img align="left" alt="Telegram" width="22px" src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667">
-</a>
+<a href="https://t.me/NordenP" title="Contact on Telegram" rel="nofollow"><img src="https://camo.githubusercontent.com/ec0e422d080e95122131de03b302b1b1e03177eb94f0ff87fb578f0238f5c45c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d40646166746465792d3030383843433f7374796c653d666c6174266c6f676f3d54656c656772616d266c6f676f436f6c6f723d7768697465" alt="Telegram Badge" data-canonical-src="https://img.shields.io/badge/-@daftdey-0088CC?style=flat&amp;logo=Telegram&amp;logoColor=white" style="max-width: 100%;"></a>
+[![Gmail Badge](https://img.shields.io/badge/-thenordendev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:thenordendev@gmail.com "Connect via Email")
 
 </br>
 
