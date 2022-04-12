@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-   <img align="right" alt="GIF" src="https://github.com/thenornen/thenornen/blob/main/code.gif?raw=true" width="500" height="320" />
+   <img alt="GIF" src="https://github.com/thenorden/thenorden/blob/main/CODE.gif" width="500" height="320" />
 </div>  
   
 
