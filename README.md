@@ -13,37 +13,37 @@
 **Back-end**
 
 <p align="left">
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="60" height="60"/> 
-      <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="60" height="60"/>
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="python" width="60" height="60"/> 
+      <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" title="django" width="60" height="60"/>
 </p>
 
 **Databases**
 
 <p align="left">
-      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="60" height="60"/> 
+      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" title="sqlite" width="60" height="60"/> 
 </p>
 
 **Tools**
 
 <p align="left">
-      <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="60" height="60"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
-      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="60" height="60"/>
-      <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/pycharm.svg" alt="pycharm" width="60" height="60"/>
-      <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/visual-studio-code.svg" alt="vscode" width="60" height="60"/> 
-      <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/sublime-text-blackbg.svg" alt="sublime text" width="60" height="60"/> 
+      <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="linux" width="60" height="60"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git" width="60" height="60"/>
+      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" title="github" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/pycharm.svg" title="pycharm" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/visual-studio-code.svg" title="vscode" width="60" height="60"/> 
+      <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/sublime-text-blackbg.svg" title="sublime text" width="60" height="60"/> 
 </p>
 
 **Learning**
 
 <p align="left">
-      <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/708405/images/4005243/django_rest_500x500.png" alt="django rest" width="60" height="60"/>
-      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="60" height="60"/>
-      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="60" height="60"/>
-      <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/javascript.svg" alt="javascript" width="60" height="60"/>
-      <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="60" height="60"/> 
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="60" height="60"/> 
-      <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="60" height="60"/> 
+      <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/708405/images/4005243/django_rest_500x500.png" title="django rest" width="60" height="60"/>
+      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" title="html5" width="60" height="60"/>
+      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" title="css3" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/javascript.svg" title="javascript" width="60" height="60"/>
+      <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" title="bootstrap" width="60" height="60"/> 
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" title="docker" width="60" height="60"/> 
+      <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" title="gitlab" width="60" height="60"/> 
 </p>
 
 ## 𝗦𝘁𝗮𝘁𝘀
