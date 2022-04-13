@@ -63,5 +63,5 @@
 ![thenorden Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thenorden&layout=compact&count_private=true&theme=gruvbox)
 
 ## Connect with me 
-<a href="https://t.me/NordenP" title="Contact on Telegram" rel="nofollow"><img src="https://camo.githubusercontent.com/ec0e422d080e95122131de03b302b1b1e03177eb94f0ff87fb578f0238f5c45c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d40646166746465792d3030383843433f7374796c653d666c6174266c6f676f3d54656c656772616d266c6f676f436f6c6f723d7768697465" alt="Telegram Badge" data-canonical-src="https://img.shields.io/badge/-@NordenP-0088CC?style=flat&amp;logo=Telegram&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://t.me/NordenP" title="Contact on Telegram" rel="nofollow"><img src="https://camo.githubusercontent.com/ec0e422d080e95122131de03b302b1b1e03177eb94f0ff87fb578f0238f5c45c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d40646166746465792d3030383843433f7374796c653d666c6174266c6f676f3d54656c656772616d266c6f676f436f6c6f723d7768697465" alt="Telegram Badge" data-canonical-src="" style="max-width: 100%;"></a>
 [![Gmail Badge](https://img.shields.io/badge/thenordendev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thenordendev@gmail.com)](thenordendev@gmail.com)
