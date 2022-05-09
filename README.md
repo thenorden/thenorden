@@ -1,21 +1,22 @@
-<div align="center">
-   <img alt="GIF" src="https://github.com/thenorden/thenorden/blob/main/CODE.gif" width="500" height="320" />
-</div>  
+   <img alt="GIF" src="https://github.com/thenorden/thenorden/blob/main/CODE.gif" width="500" height="350" align="right" /> 
   
 
-### <div align="center">Hi there 👋 I'm a Full-Stack developer</div>  
-  
+### Hi there 👋 I'm a Backend developer  
 
-- 🔭 I’m currently working on Full-Stack development projects. 
+
+
+- 🔭 I’m currently working on Backend development projects. 
  
 
 - 👯 I’m willing to collaborate on building communitites, and research projects.
   
 
-- ⚡ Fun fact: I like to keep my night shift activated 24 x 7
-  
+- ⚡ Fun fact: I love delicious food and flying planes
 
-<br/>  
+- 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-NordenP-blue?style=flat&logo=Telegram)](https://t.me/NordenP)
+
+
+<br/><br/><br/><br/>
 
 
 ## My Skill Set 
@@ -48,6 +49,3 @@
 
 ![thenorden github stats](https://github-readme-stats.vercel.app/api?username=thenorden&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 ![thenorden Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thenorden&layout=compact&count_private=true&theme=gruvbox)
-
-## Connect with me 
-<a href="https://t.me/NordenP" title="Contact on Telegram" rel="nofollow"><img src="https://img.shields.io/badge/-@NordenP-0088CC?style=flat&amp;logo=Telegram&amp;logoColor=white" alt="Telegram Badge"  style="max-width: 100%;"></a>
