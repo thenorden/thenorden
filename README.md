@@ -1,6 +1,5 @@
-<img alt="GIF" src="https://github.com/thenorden/thenorden/blob/main/CODE.gif" width="500" height="350" align="right" /> 
+<img alt="GIF" src="https://github.com/thenorden/thenorden/blob/main/CODE.gif" width="250" height="175" align="right" /> 
   
-
 ### ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&font=Terminal+Dosis+Regular&lines&lines=Hi%20there%20%F0%9F%91%8B%20I%27m%20a%20Backend%20developer)
 
 
@@ -17,7 +16,6 @@
 
 
 <br/><br/><br/><br/>
-
 
 ## My Skill Set 
 <table align="center"><tr><td valign="top" width="33%">
