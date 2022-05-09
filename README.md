@@ -47,5 +47,5 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![thenorden github stats](https://github-readme-stats.vercel.app/api?username=thenorden&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![thenorden Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thenorden&layout=compact&count_private=true&theme=gruvbox)
+![thenorden github stats](https://github-readme-stats.vercel.app/api?username=thenorden&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![thenorden Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thenorden&layout=compact&count_private=true&theme=dark)
